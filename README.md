@@ -1,4 +1,4 @@
-# 🌟 P7 - Optimisez la gestion & nettoyez les données du stock d'une boutique
+# 🌟 P7 - Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
 ## 📝 Description brève du projet
 Sanitoral, une société dans le secteur médical, souhaite disposer d'un tableau de bord interactif.
@@ -25,32 +25,30 @@ Les livrables de ce projet incluent :
 1. **Tableau de bord interactif** avec la méthode de mise à jour des données
 ---
 
-# 🌟 P9 - Analysez l’évolution des prix de l’immobilier avec Python
+# 🌟 P9 - Améliorez les performances de l'entreprise
 
 ## 📝 Description brève du projet
-Les Plus Beaux Logis de Paris, une société dans le secteur de l'immobilier souhaite avoir une analyse du marché immobilier parisien.
+Bottleneck, une société d'e-commerce dans le secteur du spiritueux souhaite mettre en place un tableau de bord interactif afin d'optimiser la performance commerciale de l'entreprise.
 Les objectifs sont :
-- Analyser le marché de l'immobilier
-- Prédire les valeurs foncières sur l'année N+1
-- Classer les catégories de logement (appartement ou locaux commerciaux)
+- Définir et suivre des indicateurs clés de performance
+- Améliorer le pilotage de l'activité
+- Faciliter la prise de décision
 ---
 ## 🧰 Outils et technologies utilisés
-- **Langages** : Python pour les alorithmes de modélisation
-- **Bibliothèques** : Pandas, Numpy, Seaborn, Matplotlib
-- **Statistiques** : Coefficient de Pearson, Régression linéaire, Clustering
-- **Autre outils** : Notebook Jupyter
+- **Langages** : DAX
+- **Logiciels d'analyse** : Power BI, Power Query
 ---
 ## 🧠 Soft skills mobilisées
-- **Collaboration** : Travailler avec des collègues pour atteindre des objectif commun
-- **Résolution de problèmes** : Analyser des situations complexes et proposer des solutions
+- **Travail en équipe** : Collaborer avec mon mentor pour optimiser les résultats
+- **Flexibilité** : S'adapter aux retours et ajuster mon approche en conséquence
 ---
 ## 🔍 Compétences techniques développées
-- Analyses corrélatives et prédictives des données
-- Capacité à mettre en place des algorithmes de régression linéaire et de classification
-- Élaboration de recommandations stratégiques basées sur des données concrètes
+- Formulation de recommandations basées sur des insights
+- Création de visualisations percutantes pour communiquer les résultats efficacement
+- Rédaction d'un rapport clair et structuré pour présenter mon analyse
 ---
 ## 📦 Livrables
 Les livrables de ce projet incluent :
-1. **Notebook Jupyter** incluant le code, les commentaires et résultats
-2. **Présentation PowerPoint**
+1. **Rapport d'analyse** détaillant les solutions et préconisation d'utilisation de la base de données
+2. **Tableau de bord** avec les recommandations et les KPIs à suivre
 ---
