@@ -1,7 +1,8 @@
 # 🌟 P7 - Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
 ## 📝 Description brève du projet
-Sanitoral, une société dans le secteur médical, souhaite disposer d'un tableau de bord interactif.
+Sanitoral, une société dans le secteur médical, souhaite disposer d'un tableau de bord interactif pour suivre les phases de ses projets marketing et IT.
+
 Les objectifs sont :
 - Suivre l'avancement des projets
 - Identifier les retards et les anomalies de performances
@@ -28,7 +29,8 @@ Les livrables de ce projet incluent :
 # 🌟 P9 - Améliorez les performances de l'entreprise
 
 ## 📝 Description brève du projet
-Bottleneck, une société d'e-commerce dans le secteur du spiritueux souhaite mettre en place un tableau de bord interactif afin d'optimiser la performance commerciale de l'entreprise.
+Bottleneck, une société d'e-commerce dans le secteur du spiritueux, souhaite mettre en place un tableau de bord interactif afin d'optimiser la performance commerciale de l'entreprise.
+
 Les objectifs sont :
 - Définir et suivre des indicateurs clés de performance
 - Améliorer le pilotage de l'activité
