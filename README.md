@@ -8,8 +8,8 @@ Les objectifs sont :
 - Identifier les retards et les anomalies de performances
 ---
 ## 🧰 Outils et technologies utilisés
-- **Langages** : DAX
-- **Logiciels d'analyse** : Power BI, Power Query
+- **Langage** : DAX
+- **Analyse et visualisation de données** : Power Query, Power BI
 ---
 ## 🧠 Soft skills mobilisées
 - **Communication** : Savoir transmettre mes idées et résultats de façon claire et concise
@@ -17,7 +17,7 @@ Les objectifs sont :
 - **Analyse critique** : Évaluer les données de manière objective et en tirer des conclusions
 ---
 ## 🔍 Compétences techniques développées
-- Techniques d'analyse de données pour en extraire des informations pertinentes
+- Techniques d'analyse de données pour extraire des informations pertinentes
 - Création de visualisations efficaces pour rendre les données compréhensibles
 - Sensibilisation à la protection des données et aux questions éthiques
 ---
@@ -29,7 +29,7 @@ Les livrables de ce projet incluent :
 # 🌟 P9 - Améliorez les performances de l'entreprise
 
 ## 📝 Description brève du projet
-Bottleneck, une société d'e-commerce dans le secteur du spiritueux, souhaite mettre en place un tableau de bord interactif afin d'optimiser la performance commerciale de l'entreprise.
+Bottleneck, une société d'e-commerce dans le secteur du spiritueux, souhaite mettre en place un tableau de bord interactif afin d'optimiser sa performance commerciale.
 
 Les objectifs sont :
 - Définir et suivre des indicateurs clés de performance
@@ -37,8 +37,8 @@ Les objectifs sont :
 - Faciliter la prise de décision
 ---
 ## 🧰 Outils et technologies utilisés
-- **Langages** : DAX
-- **Logiciels d'analyse** : Power BI, Power Query
+- **Langage** : DAX
+- **Analyse et visualisation de données** : Power Query, Power BI
 ---
 ## 🧠 Soft skills mobilisées
 - **Travail en équipe** : Collaborer avec mon mentor pour optimiser les résultats
