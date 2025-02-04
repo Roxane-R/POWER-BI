@@ -1,11 +1,12 @@
 # 🌟 P7 - Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
 ## 📝 Description brève du projet
-Sanitoral, une société dans le secteur médical, souhaite disposer d'un tableau de bord interactif pour suivre les phases de ses projets marketing et IT.
+Sanitoral, une entreprise du secteur médical, souhaite mettre en place un tableau de bord interactif afin de suivre en temps réel les différentes phases de ses projets marketing et IT. Cet outil de visualisation permettra aux équipes d’optimiser le pilotage et d’anticiper d’éventuels blocages.
 
 Les objectifs sont :
-- Suivre l'avancement des projets
-- Identifier les retards et les anomalies de performances
+- Assurer un suivi précis de l’avancement des projets en centralisant les données clés
+- Détecter rapidement les retards et anomalies pour améliorer la prise de décision
+- Optimiser la gestion des ressources en offrant une vue claire et synthétique des performances
 ---
 ## 🧰 Outils et technologies utilisés
 - **Langage** : DAX
@@ -29,12 +30,12 @@ Les livrables de ce projet incluent :
 # 🌟 P9 - Améliorez les performances de l'entreprise
 
 ## 📝 Description brève du projet
-Bottleneck, une société d'e-commerce dans le secteur du spiritueux, souhaite mettre en place un tableau de bord interactif afin d'optimiser sa performance commerciale.
+Bottleneck, une entreprise e-commerce spécialisée dans les spiritueux, souhaite mettre en place un tableau de bord interactif afin d’optimiser le suivi de sa performance commerciale et d’améliorer la prise de décision stratégique.
 
 Les objectifs sont :
-- Définir et suivre des indicateurs clés de performance
-- Améliorer le pilotage de l'activité
-- Faciliter la prise de décision
+- Définir et suivre des indicateurs clés de performance (KPI) pour évaluer l’efficacité des actions commerciales
+- Améliorer le pilotage de l’activité grâce à une visualisation claire et en temps réel des données
+- Faciliter la prise de décision en identifiant rapidement les tendances et les opportunités d’amélioration
 ---
 ## 🧰 Outils et technologies utilisés
 - **Langage** : DAX
